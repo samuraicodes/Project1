@@ -31,12 +31,12 @@ def window_one():
             answer_seven.config(text=answer[7])
     
     def reset_output():
-    answer_one.config(text="")
-    answer_two.config(text="")
-    answer_three.config(text="")
-    answer_four.config(text="")
-    answer_five.config(text="")
-    answer_six.config(text="")
+        answer_one.config(text="")
+        answer_two.config(text="")
+        answer_three.config(text="")
+        answer_four.config(text="")
+        answer_five.config(text="")
+        answer_six.config(text="")
 
     window =  Tk()
     window.geometry("550x600")
