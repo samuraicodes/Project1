@@ -3,14 +3,15 @@
 
 ## Modules 
 
-**The first is the tkinter library:**
+**The first is the tkinter library:
+
 from tkinter import *
 import python_links as pl
 import html_links as hl
 import css_links as cl
 import tools_links as tl
 
-# Principal function of the module, to be called from main.py
+**Principal function of the module, to be called from main.py
 def window_one():
     
     # Functions to call the modules 
